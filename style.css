@@ -1,0 +1,17 @@
+ul {list-style-type: square; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold; background-color: aliceblue; margin: auto; padding: 20px;}
+h1 {color:darkblue}
+h1 {text-align: center;}
+section {padding: 20px;}
+section {margin: 20px;}
+.about {background-color: azure;
+            font-family: sans-serif;}
+            nav{ background-color: antiquewhite;
+            text-align: center;
+        padding: 20px 50px;  text-decoration: none;}
+        nav a:hover{color:crimson}
+        nav a{margin-right: 25px;}
+        .center{text-align: center;}
+        .container{max-width: 900px; margin: auto;}
+        img{border-radius: 10px; width: 250px;box-shadow: 0px 4px 10px gray; margin-bottom: 20px;}
+        ul li{margin: 8px 0;}
+        .footer{background-color: black; font-style: italic;text-align: center;text-decoration: white;color: white;}
